@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F76610&random=false&width=435&lines=%F0%9F%87%AE%F0%9F%87%B3+Hi%2C+I'm+From+India🇮🇳;%E2%8C%A8%EF%B8%8F+I'm+A+Weeb+&+A+Tech+Enthusiast;%F0%9F%A6%80+I+like+to+gain+new+skills;%E2%9A%99%EF%B8%8F+I'm+a+Polyglot+Programmer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F76610&random=false&width=435&lines=%F0%9F%87%AE%F0%9F%87%B3+Hi%2C+I'm+From+India🇮🇳;%E2%8C%A8%EF%B8%8F%E7%E8+I'm+A+Weeb+&+A+Tech+Enthusiast;%F0%9F%A6%80+I+like+to+gain+new+skills;%E2%9A%99%EF%B8%8F+I'm+a+Polyglot+Programmer)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cool_Annant) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/watashibakaaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anxieted_Anant) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AnantProCorp) 
