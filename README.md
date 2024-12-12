@@ -1,4 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F76610&random=false&width=435&lines=%F0%9F%87%AE%F0%9F%87%B3+Hi%2C+I'm+Anant)
+<div align="center">
+<a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%A7%81%E3%81%AF%E3%82%A2%E3%83%8A%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99%20I'm%20Anant&l0=000000&l2=ffffff&bg=000000&frame=ffffff&comment=">
+</a>
+</div>
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cool_Annant) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/watashibakaaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anxieted_Anant) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AnantProCorp) 
