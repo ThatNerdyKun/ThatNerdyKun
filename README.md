@@ -8,19 +8,4 @@
     <a href="https://discord.com/users/629851641579044874"><img src="https://lanyard.cnrad.dev/api/629851641579044874" /></a>
 </p>
 
-# AniList Activity
-Read chapter 101 - 107 of Na Honjaman Level Up <br>
- 4 days ago <br>
-Read chapter 1 - 3 of Boku no Kokoro no Yabai Yatsu<br>
- 2 weeks ago <br>
-Completed Summer Time Render<br>
- 2 weeks ago <br>
-Completed Gakuen Babysitters<br>
- 2 weeks ago <br>
-Completed THE GOD OF HIGH SCHOOL<br>
- 2 weeks ago <br>
-Paused watching Bungou Stray Dogs<br>
- 2 weeks ago <br>
-Completed Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season<br>
- 2 weeks ago 
 
