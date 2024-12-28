@@ -12,11 +12,11 @@ I first started coding in 2021. The first ever programming language that I have 
 Basically, after learning HTML. I learnt Python. From python I started making some basic projects. My first ever python project was a snake game which I have made. I got suprised by the results and after then I created a multipurpose discord bot using python which can do some basic actions according to the given command.
 
 # Skills 
-❀ Python
-❀ CSS
-❀ JAVA
-❀ Brainfuck
-❀ HTML
+**❀ Python<br>
+❀ CSS<br>
+❀ JAVA<br>
+❀ Brainfuck<br>
+❀ HTML**<br>
 
 # Socials :- <br>
 ``Discord - anant20155``<br>
