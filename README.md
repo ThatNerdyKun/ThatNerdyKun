@@ -11,6 +11,11 @@
 <p align="center">
     <a href="https://discord.com/users/629851641579044874"><img src="https://lanyard.cnrad.dev/api/629851641579044874" /></a>
 </p>
+
 <p align="center">
 <a href="https://u8views.com/github/ThatNerdyKun"><img src="https://u8views.com/api/v1/github/profiles/144612836/views/day-week-month-total-count.svg"></a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=default&layout=samuel&font=Architect&quoteType=quote-for-the-day&bgColor=black&fontColor=orange">
 </p>
