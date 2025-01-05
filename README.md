@@ -1,15 +1,9 @@
-<p align="center">
-<a href="https://u8views.com/github/ThatNerdyKun"><img src="https://u8views.com/api/v1/github/profiles/144612836/views/day-week-month-total-count.svg"></a>
-</p>
 
 <div align="center">
 <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%A7%81%E3%81%AF%E3%82%A2%E3%83%8A%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99%20I'm%20Anant&l0=000000&l2=ffffff&bg=000000&frame=ffffff&comment=">
 </a>
 </div>
-<details>
-  <summary>:zap: Other</summary>
-  <br>
 <p align="center">
     <img width="300" height="300" src="https://spotify-recently-played-readme.vercel.app/api?user=31fbtsgralkgo72wbqadbvk7rpgu">
 </p>
@@ -21,4 +15,7 @@
 <p align="center">
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=default&layout=samuel&font=Architect&quoteType=quote-for-the-day&bgColor=black&fontColor=orange">
 </p>
-</details>
+<p align="center">
+<a href="https://u8views.com/github/ThatNerdyKun"><img src="https://u8views.com/api/v1/github/profiles/144612836/views/day-week-month-total-count.svg"></a>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
