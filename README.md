@@ -6,13 +6,17 @@
 </div>
 <h3 align="center">A Self-Taught Full Stack Web Developer from India!</h3>
 
- - 🔭 I’m currently working on **Discord Datamining**
+$$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
-- 🌱 I’m currently learning **Docker**<br>
+<i>Check out my [Portfolio](https://annant.is-a.dev/)</i> <br>
 
-- 💬 Ask me about **python, html and UI/UX designing**<br>
-
-- 📫 How to reach me **workwithanant@protonmail.com**<br>
+<div width ="100%" display="flex" align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thatnerdykun&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thatnerdykun&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img width="50%" alt="github-stats" src="github-stats.svg" />
+  </picture>
+</div>
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
