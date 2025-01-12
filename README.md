@@ -18,11 +18,17 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   </picture>
 </div>
 
-<h2 align="left">Connect with me:</h2>
-<p align="center">
-    <img width="300" height="300" src="https://spotify-recently-played-readme.vercel.app/api?user=31fbtsgralkgo72wbqadbvk7rpgu">
-</p>
+<h3 align="center">Get in touch</h3>
 
+<div width="100%" display="flex" align="center">
+<a href="mailto:workwithanant@protonmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+  <a href="https://x.com/AnxitedAnant">
+<img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
+</a>
+</div>
+<br>
 <p align="center">
     <a href="https://discord.com/users/629851641579044874"><img src="https://lanyard.cnrad.dev/api/629851641579044874" /></a>
 </p>
