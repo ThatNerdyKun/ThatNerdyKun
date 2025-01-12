@@ -54,6 +54,3 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
-<p align="center">
-<a href="https://u8views.com/github/ThatNerdyKun"><img src="https://u8views.com/api/v1/github/profiles/144612836/views/day-week-month-total-count.svg"></a>
-</p>
