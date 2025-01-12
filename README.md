@@ -4,6 +4,16 @@
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%A7%81%E3%81%AF%E3%82%A2%E3%83%8A%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99%20I'm%20Anant&l0=000000&l2=ffffff&bg=000000&frame=ffffff&comment=">
 </a>
 </div>
+<h3 align="center">A Self-Taught Full Stack Web Developer from India!</h3>
+
+ - 🔭 I’m currently working on **Discord Datamining**
+
+- 🌱 I’m currently learning **Docker**<br>
+
+- 💬 Ask me about **python, html and UI/UX designing**<br>
+
+- 📫 How to reach me **workwithanant@protonmail.com**<br>
+
 <h2 align="left">Connect with me:</h2>
 <p align="center">
     <img width="300" height="300" src="https://spotify-recently-played-readme.vercel.app/api?user=31fbtsgralkgo72wbqadbvk7rpgu">
