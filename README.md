@@ -9,7 +9,9 @@
 $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <i>Check out my [Portfolio](https://annant.is-a.dev/)</i> <br>
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
 <div width ="100%" display="flex" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thatnerdykun&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
@@ -51,6 +53,6 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
     <p align="center">
 <a href="https://u8views.com/github/ThatNerdyKun"><img src="https://u8views.com/api/v1/github/profiles/144612836/views/day-week-month-total-count.svg"></a>
 </p>
-
+</details>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
