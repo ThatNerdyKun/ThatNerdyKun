@@ -10,7 +10,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <i>Check out my [Portfolio](https://annant.is-a.dev/)</i> <br>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: More</summary>
   <br>
 <div width ="100%" display="flex" align="center">
   <picture>
